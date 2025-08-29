@@ -23,7 +23,11 @@ The goal is to derive meaningful insights from IPL matches, players, and teams w
 ## 📊 Dashboard Preview
 
 ![Dashboard ](images/IPL_Analysis.png)
+
+## 📊 Dashboard Preview
 ![Preview ](images/Summary.png)
+![Preview ](images/Batting.png)
+
 
 
 
